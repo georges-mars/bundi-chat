@@ -56,7 +56,7 @@ Bundi chat is a simple chat app that works on Android and iOS. Users can send an
 Clone this repository by opening your terminal/CMD and change the current working directory to Desktop - use `cd Desktop` command.
 ```bash
     cd Desktop
-    git clone https://github.com/morikeli/bundi-chat.git
+    git clone https://github.com/georges-mars/bundi-chat.git
 ```
 
 2. Open the cloned repository on your text editor and run this command:
